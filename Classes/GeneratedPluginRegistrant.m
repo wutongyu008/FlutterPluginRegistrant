@@ -3,8 +3,8 @@
 //
 
 #import "GeneratedPluginRegistrant.h"
-#import <path_provider/PathProviderPlugin.h>
-#import <shared_preferences/SharedPreferencesPlugin.h>
+#import "PathProviderPlugin.h"
+#import "SharedPreferencesPlugin.h"
 
 @implementation GeneratedPluginRegistrant
 
