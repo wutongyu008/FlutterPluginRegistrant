@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     s.license      = { :type => "MIT", :file => "LICENSE" }
     s.author       = { "wutongyu008" => "wutongyu_08@163.com" }
     s.platform     = :ios, "9.0"
-    s.source       = { :git => "https://github.com/wutongyu008/FlutterPluginRegistrant.git", :tag => "#{spec.version}" }
+    s.source       = { :git => "https://github.com/wutongyu008/FlutterPluginRegistrant.git", :tag => "#{s.version}" }
     s.source_files =  "Classes", "Classes/**/*.{h,m}"
     s.source           = { :path => '.' }
   s.public_header_files = './Classes/**/*.h'
