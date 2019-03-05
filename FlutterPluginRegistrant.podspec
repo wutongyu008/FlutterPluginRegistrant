@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.name             = 'FlutterPluginRegistrant'
   s.version          = '0.0.1'
     s.summary          = 'Registers plugins with your flutter app'
-    s.homepage     = "https://github.com/wutongyu008/FlutterSDK"
+    s.homepage     = "https://github.com/wutongyu008/FlutterPluginRegistrant"
     s.license      = { :type => "MIT", :file => "LICENSE" }
     s.author       = { "wutongyu008" => "wutongyu_08@163.com" }
     s.platform     = :ios, "9.0"
